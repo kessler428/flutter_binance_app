@@ -8,4 +8,4 @@ El proyecto utiliza la API de Binance para obtener los precios de las criptomone
 Para configurar la API de Binance, se creó un repositorio y un datasource. El datasource se encarga de hacer las llamadas a la API y el repositorio se encarga de manejar los datos que se obtienen de estas llamadas.
 
 Uso
-Para usar el proyecto, simplemente clone el repositorio y ejecute flutter run en la terminal.
+Para usar el proyecto, simplemente clone el repositorio y ejecute flutter pub get en la terminal para obtener las dependencias y ejecute flutter run para poder correr el proyecto en su emulador.
